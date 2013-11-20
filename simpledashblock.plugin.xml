@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Simple Dash Block</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+	<description><![CDATA[Insert any content as a dash block.]]></description>
+	<copyright>2013</copyright>
+	<guid>58C015D5-5039-4D6B-9549-6C3572842238</guid>
+</pluggable>
